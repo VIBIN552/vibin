@@ -1,7 +1,5 @@
 # Capstone_Project_Phonepay_Pulse-Data-Visualization-and-Exploration
 
-## Introduction
-
 The aim of this project is to extract, transform and visualize the data from PhonePe Pulse GitHub reprository. The process involves
 
 1. Data Extration :
