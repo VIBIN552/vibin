@@ -27,7 +27,7 @@ The aim of this project is to extract, transform and visualize the data from Pho
 
     BATCH : MDTM22
 
-    LINKEDIN : vibin552@outlook.com
+    
     
     DOMAIN : DATA SCIENCE
 
